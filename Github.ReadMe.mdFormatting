@@ -1,0 +1,59 @@
+    Github : ReadMe File Formatting
+       Easy Markdown Modifications
+
+		………….README.md File………………..
+
+
+	Lesson 1. Headers
+		h1	# This is The Top
+		h2	## This is The Top
+		h3	### This is The Top
+		h6 ###### This is The Top
+
+	*Text Begins Large, Getting Smaller as #/h’s increase
+
+	Lesson 2. Bold
+		**Be Bold**
+		  This is an **example**
+		**AND ANOTER**
+
+	Lesson 3. Italic
+		An Underscore Creates _Italics_
+		_Important Sentence_
+		_EMPASIS_ 
+			
+
+	Lesson 4. Bullet Point
+		
+		- List Item a
+		- Item b
+		- Item c
+		- item d
+
+		- **Bold Bullet Pt**
+		- **BOLD** WORD**
+
+	Lesson 5. Links
+
+		[ CLICK HERE ](www.test.com)
+
+		[ FOLLOW ME ](www.github.com)
+
+		[ See Reference ](www.wikipedia.com)
+
+		[Learn More](www.website.com)
+
+		*[Text Description or Instructions](URL)
+
+
+	Lesson 6. Highlight
+
+		`Highlighted Text`
+
+		```Can cover and 
+				entire
+					pages if you’d like.
+
+
+
+——————————————————————————————————————
