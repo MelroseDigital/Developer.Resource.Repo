@@ -1,0 +1,66 @@
+      Github Cheat Sheet
+            Basic Commands
+
+  ASSUMPTIONS:
+  1. Remote & Local Repo Have Been Created.
+  2. Working from Local Repo
+
+
+LOCAL REPO SETUP
+  • Clone Repo : git clone <http://repoURL> 
+       example : git clone http://github.com/testrepo
+
+  • Add Remote : git remote add origin <http://repoURL>
+
+  • Show Remote : git remote -v
+
+---   ---   ---   ---
+
+UPDATE LOCAL REPO
+  • Pull from Remote : git pull <http://repoURL>
+                        git pull origin main 
+                        git pull origin <branch>
+
+  • Fetch from Remote : git fetch
+
+---   ---   ---   ---
+UPDATE REMOTE REPO
+  • Commit Changes :  git add .    → 
+                      git commit -m "Message" →   
+                      git push <http://repoURL>
+                      
+*TO FORCE AN ACTION **use with caution**
+  • Forced Push : git push --force  
+  • Forced Pull : git pull --force
+
+---   ---   ---   ---
+
+BRANCHING
+  • Create New Branch : git checkout -b <newBrancName>
+              example :  git checkout -b testing
+  
+  • Switch Branches : git checkout <branchName>
+  
+  • Check Current Branch : git branch
+    (You Are Here)
+    
+  • Combine Branches : git merge <branch>
+
+
+  ---   ---   ---   ---
+   
+DUE DILLIGENCE 
+  • Check Current Status : git status 
+  
+  • View Log : git log
+  
+
+---   ---   ---   ---
+
+TEMPORARILY HIDE / STORE
+  (Untracked changes)
+  
+  • Store Work : git stash -u
+  
+  • Retrieve Stashed Work : git stash pop
+
