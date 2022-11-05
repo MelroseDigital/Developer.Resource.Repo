@@ -1,0 +1,38 @@
+HTML BASIC PAGE LAYOUT
+ 
+<!DOCTYPE html>
+<html>
+      <head>
+<title>Hyper Text App<title>
+<link />
+<meta />
+      <head>
+      <body>
+                   <h1>Header<h1>
+                  <h2>Subheader<h2>
+               <p>Paragraph<p>
+     <body>
+<html>
+
+----------------------------------------------------
+HTML ELEMENTS
+
+• BLOCK ELEMENTS- have top & bottom margins, each begins on a new line, span page width
+       <div>
+       <h1>
+       <p>
+       <table>
+       <ol>
+
+• INLINE ELEMENTS- amount of space or placement controled by tags
+     <span>
+     <img>
+     <button>
+     <input>
+     
+• INFORMATIONAL ELEMENTS- These aren't visible in browser or to User. Purpose is to provide info. only
+
+    <style> stylesheets *An HTML doc can have more than 1
+    <meta>  meta data
+    <head> 
+    
