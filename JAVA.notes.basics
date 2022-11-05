@@ -1,14 +1,20 @@
-    JAVA: OOP Programming Language
+    JAVA Basics
     
-Popular, WOUA, 
-Build & Develop: desktop, web, mobile apps ...
+WHAT?      An Object Oriented Programming Language. Secure, Popular/Widely Used, and Easily Accessible.
+
+APPEAL?    Java's also Popular, Write Once Run Anywhere (and will work/appear same on any machine), FREE
+    
+USE?       Build & Develop: desktop, web, mobile apps, cloud computing ...
+
+
+ENVIRONMENT
 
  JDK= Java Development Kit. Builds Apps
- Contains a compiler, JRE, & Libraries 
+       Contains a compiler, JRE, & Libraries 
  
- JVM-
+ JVM= Java Virtual Machine
  
- JRE- Java Runtime Environment
+ JRE= Java Runtime Environment
 
 
 
