@@ -7,7 +7,7 @@ APPEAL?    Java's also Popular, Write Once Run Anywhere (and will work/appear sa
 USE?       Build & Develop: desktop, web, mobile apps, cloud computing ...
 
 
-ENVIRONMENT
+   ENVIRONMENT
 
  JDK= Java Development Kit. Builds Apps
        Contains a compiler, JRE, & Libraries 
@@ -15,6 +15,17 @@ ENVIRONMENT
  JVM= Java Virtual Machine
  
  JRE= Java Runtime Environment
+
+
+  OOPs 4 Pillars
+   
+i.  Encapsulation:
+
+ii. Polymorphism:
+
+iii.Inheritance:
+
+iv. Abstraction:
 
 
 
