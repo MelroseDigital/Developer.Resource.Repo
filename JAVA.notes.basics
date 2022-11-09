@@ -2,22 +2,34 @@
     
 WHAT?      An Object Oriented Programming Language. Secure, Popular/Widely Used, and Easily Accessible.
 
-APPEAL?    Java's also Popular, Write Once Run Anywhere (and will work/appear same on any machine), FREE
+APPEAL?    Platform Independent, (WORA)Write Once Run Anywhere (and will work/appear same on any machine), FREE
     
 USE?       Build & Develop: desktop, web, mobile apps, cloud computing ...
 
 
+
    ENVIRONMENT
 
- JDK= Java Development Kit. Builds Apps
-       Contains a compiler, JRE, & Libraries 
+ JDK= Java Development Kit. Builds Apps-- Required to build & run
+       Contains a compiler, JRE, & Libraries, & more.
  
- JVM= Java Virtual Machine
+ JVM= Java Virtual Machine. Compile & Execute
  
- JRE= Java Runtime Environment
+ JRE= Java Runtime Environment. Prerequisite for use- Required to run apps.
+ Built in libraries & classes
 
 
-  OOPs 4 Pillars
+FEATURES: 
+•Auto-Memory Management
+•Compiled Language: byte code to machine code
+•
+
+GETTING STARTED
+-Main Method: Signature starting point req. for program to execute/run
+ public static void main String[] args
+
+
+        OOPs 4 Pillars
    
 i.  Encapsulation: he Grouping multiple, into 1 unit
 
@@ -28,4 +40,17 @@ iii.Inheritance: Attributes of parent available for use by child
 iv. Abstraction: Necessity is visible, while the complex details 
 
 
+         Operators
+         
+         
+         Syntax
+example:             System.out.println();
+To print verbatim    System.out.println("Hello World")
+To print calculation System.out.println(10 * 10)
 
+
+        Variables
+        
+        
+        
+        Data Types
