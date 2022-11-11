@@ -1,5 +1,22 @@
 Java Coding Notes:
 
-METHODS
 
-STRINGS
+CODE INPUT --> OUTPUT
+
+FOR INPUT:
+ for(byte i=0; i<5; i++)(
+    System.out.print(i);
+    )
+    
+ OUTPUT:   
+ 01234
+ 
+ FOR INPUT:
+ Interger i = new Interger(0);
+ if(i== 0) System.out.print("=");
+ if(i !=0) System.out.print("!");
+ if(i > 0) System.out.print(">"); 
+ if(i < 0) System.out.print("<");
+ 
+  OUTPUT:
+  =
