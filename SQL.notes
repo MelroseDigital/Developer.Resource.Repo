@@ -1,0 +1,40 @@
+SQL- Structured Query Language
+Programming language communicates with data stored in 
+relational database management system. 
+*SQL syntax- very similar to English language
+
+Database = Collection information that's organized for easy 
+access, management and update
+
+Relational database structured for identification of data in relation to other data. 
+Often organized into tables.
+
+
+Columns have descriptions
+Rows are records
+
+SQL USES
+Access RDMS SYSTEM'S data.
+Users ABLE To define, describe and manipulate  the data. Create, Drop databases & tables.
+Embedding in other languages using SQL modules, libraries & pre-compilers.
+Set permissions on tables, procedures and views.
+
+ Primary Key
+Field w.in table that uniquely identifies. Contains unique values. Cannot have NULL values.
+A table can have only one primary key.
+**When multiple fields are used as a primary key, they are called a composite key.
+
+Foreign Key
+A key used to link two tables together. Referencing key.
+Column or a combination of columns w. values match a Primary Key in a different table.
+The relationship between 2 tables matches the Primary Key in one of the tables with a Foreign Key in the second table.
+
+SQL Statements
+DDL - Data Definition Language - CREATE, ALTER, DROP
+DML - Data Manipulation Language - SELECT, INSERT, UPDATE, DELETE DCL - Data Control Language - GRANT, REVOKE
+TCL - Transaction Control Language - SAVE
+
+COMMANDS
+Select, Insert, Delete
+JOINS
+INNER JOIN LEFT JOIN RIGHT JOIN FULL JOIN
