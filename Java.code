@@ -1,5 +1,15 @@
 Java Coding Notes:
 
+OPERATORS
+The = operator is assignment, the == operator tests equality
+  
+The % operator returns the remainder of dividing the left operand by the right
+
+VARIABLES:
+Primitive variable stores a value
+Reference variable stores the memory address of an object
+
+int variable = 32 bits (4 bytes)
 
 CODE INPUT --> OUTPUT
 
@@ -20,3 +30,10 @@ FOR INPUT:
  
   OUTPUT:
   =
+
+
+int[][] twoDimensionalArray = { {0, 1, 2}, {2, 4, 6}, {2, 1, 0} };
+
+VALUE STORED AT [2][3] = 0
+
+VALUE STORED AT [1][2] = 6
