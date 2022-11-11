@@ -1,0 +1,12 @@
+COMMAND LINE (Linux, OS)
+
+ls   Lists all files and directories in the present working directory
+ls -R ls -a Lists hidden files
+cd or Navigate to HOME directory Move one level up
+cd ..
+cd
+cd / To change to a particular directory Move to the root directory Creates a new file
+cat >
+cd ~
+
+
